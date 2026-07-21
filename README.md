@@ -1,4 +1,6 @@
- Fraud Detection System in Banking python, pyQt5 and SQLite for database
+Fraud Detection System in Banking python, pyQt5 and SQLite for database
+
+
 
  Technologies used
  
