@@ -2,7 +2,7 @@
 
  Technologies used
 -Python
--Machine Learning (Scikit-Learn, PandasNumpy, matplotlib, pickle, and Random Forest )
+-Machine Learning (Scikit-Learn, PandasNumpy, matplotlib,and Random Forest )
 -PyQt5
 -SQLite
 
